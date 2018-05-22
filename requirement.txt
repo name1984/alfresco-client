@@ -1,0 +1,14 @@
+certifi==2018.4.16
+chardet==3.0.4
+Django==2.0.5
+django-tables2==1.21.2
+get==1.0.3
+gunicorn==19.8.1
+idna==2.6
+post==1.0.2
+public==1.0.3
+pytz==2018.4
+query-string==1.0.2
+request==1.0.2
+requests==2.18.4
+urllib3==1.22
